@@ -57,6 +57,7 @@ Output:
 
 
 Result:
+
 Thus, the program is verified successfully
  
 EXP NO:7 C PROGRAM TO PRINT TEN SPACE-SEPARATED INTEGERS     IN A SINGLE  LINE DENOTING THE FREQUENCY OF EACH DIGIT FROM 0 TO 3 .
@@ -112,6 +113,7 @@ Output:
 
 
 Result:
+
 Thus, the program is verified successfully
 
 EXP NO:8 C PROGRAM TO PRINT ALL OF ITS PERMUTATIONS IN STRICT LEXICOGRAPHICAL ORDER.
@@ -184,6 +186,7 @@ Output:
 
 
 Result:
+
 Thus, the program is verified successfully
  
 EXP NO:9 C PROGRAM PRINT A PATTERN OF NUMBERS FROM 1 TO N AS
@@ -244,6 +247,7 @@ Output:
 
 
 Result:
+
 Thus, the program is verified successfully
 
 EXP NO:10 C PROGRAM TO FIND A SQUARE  OF NUMBER USING FUNCTION WITHOUT ARGUMENTS WITH RETURN TYPE
@@ -295,6 +299,7 @@ Output:
 
 
 Result:
+
 Thus, the program is verified successfully
 
 
