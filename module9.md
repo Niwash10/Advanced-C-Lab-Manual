@@ -60,6 +60,7 @@ Output:
 
 
 Result:
+
 Thus, the program to display stack elements using an array is verified successfully.
  
 
@@ -98,6 +99,7 @@ Output:
 
 
 Result:
+
 Thus, the program to push the given element in to a stack using array is verified successfully
 
 
@@ -135,6 +137,7 @@ Output:
 
 
 Result:
+
 Thus, the program to display queue elements using array is verified successfully.
 
 
@@ -171,6 +174,7 @@ Output:
 
 
 Result:
+
 Thus, the program to insert elements in queue using array is verified successfully.
 
 
@@ -219,4 +223,5 @@ Output:
 
 
 Result:
+
 Thus, the function that deletes an element from a queue implemented using an array is verified successfully.
