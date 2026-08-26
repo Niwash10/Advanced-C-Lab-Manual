@@ -44,6 +44,7 @@ Output:
 <img width="623" height="186" alt="image" src="https://github.com/user-attachments/assets/e1000d6c-7809-4edf-9f0f-e0fa1cae43b9" />
 
 Result:
+
 Thus, the program  that create a function to find the greatest number is verified successfully.
 
 
@@ -104,6 +105,7 @@ Output:
 
 
 Result:
+
 Thus, the program to print the maximum values for the AND, OR and XOR comparisons
 is verified successfully.
 
@@ -166,6 +168,7 @@ Output:
 
 
 Result:
+
 Thus, the program to write the logic for the requests is verified successfully.
 
 
@@ -222,6 +225,7 @@ Output:
 
 
 Result:
+
 Thus, the program prints the sum of the integers in the array is verified successfully.
 
 
