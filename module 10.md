@@ -52,6 +52,7 @@ Output:
 
 
 Result:
+
 Thus, the program to search a given element in the given linked list is verified successfully.
 
 
@@ -100,6 +101,7 @@ Output:
 
  
 Result:
+
 Thus, the program to insert a node in a linked list is verified successfully.
 
 
@@ -143,6 +145,7 @@ Output:
 
 
 Result:
+
 Thus, the program to traverse a doubly linked list is verified successfully. 
 
 
@@ -193,6 +196,7 @@ Output:
 
 
 Result:
+
 Thus, the program to insert an element in doubly linked list is verified successfully.
 
 
@@ -309,6 +313,7 @@ Output:
 
 
 Result:
+
 Thus, the function that deletes a given element from a linked list is verified successfully.
 
 
