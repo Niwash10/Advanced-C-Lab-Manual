@@ -107,6 +107,7 @@ int main() {
 
 
 Output:
+
 <img width="424" height="202" alt="image" src="https://github.com/user-attachments/assets/9cf2a3d6-9e21-439e-adb4-65b6ec91b778" />
 
 
